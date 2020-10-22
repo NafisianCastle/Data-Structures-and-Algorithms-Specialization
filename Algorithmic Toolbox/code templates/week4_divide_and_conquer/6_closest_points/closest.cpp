@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 #include<bits/stdc++.h>
 using namespace std;
+=======
+#include<bits/stdc++.h>
+using namespace std;
+>>>>>>> 41b8f92f3a46828fb0f1a61a96c2446049322ce7
 
 double minimal_distance(vector<int> x, vector<int> y) {
   //write your code here

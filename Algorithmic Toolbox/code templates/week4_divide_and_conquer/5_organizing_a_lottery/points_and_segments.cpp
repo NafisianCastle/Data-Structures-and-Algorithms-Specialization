@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #include<bits/stdc++.h>
+=======
+#include<bits/stdc++.h>
+>>>>>>> 41b8f92f3a46828fb0f1a61a96c2446049322ce7
 using namespace std;
 
 vector<int> fast_count_segments(vector<int> starts, vector<int> ends, vector<int> points) {
